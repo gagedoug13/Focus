@@ -1,4 +1,6 @@
-# Sample Snack app
+# Focus
+
+Focus is a Native app that helps users train their focus by entering a focus subject and selecting a time in which they wish to focus for. Upon completing a task, the Android or OIS device will vibrate and return to the main screen. This project was built in React Native, using things like React Hooks, ES6, and Expo. 
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
